@@ -4,7 +4,7 @@ With rapid urbanization, evaluating sustainability at the locality level has bec
 
 The application enables real-time predictions, explains model behavior using feature importance, and allows scenario simulations to understand how sustainability can be improved.
 
-
+I have generated the dummy data using generate_data() function which is in app.py itself.
 ## 🚀 Features
 
 - 🔢 Real-time sustainability score prediction  
